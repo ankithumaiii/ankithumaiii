@@ -25,8 +25,10 @@ B.Tech CSE Student • Full Stack Developer • Open Source Contributor
 ---
 
 ## 🛠️ Tech Stack
-
+<div align="center">
+  
 ### Languages
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
@@ -43,18 +45,11 @@ B.Tech CSE Student • Full Stack Developer • Open Source Contributor
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
+</div>
 ---
 
 ## 🚀 Featured Projects
 
-### 🌍 RoamRipple
-
-A full-stack travel planning and booking platform.
-
-**Tech:** React • Node.js • Express • MongoDB
-
----
 
 ### 🤖 Jalebi
 
